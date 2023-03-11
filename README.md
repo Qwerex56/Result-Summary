@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./screenshot.jpg)
-![Tablet](./screenshot.jpg)
-![Desktop](./screenshot.jpg)
+![Mobile](./Przechwytywanie%20zawarto%C5%9Bci%20sieci%20Web_11-3-2023_1465_localhost.jpeg)
+![Tablet](./Przechwytywanie%20zawarto%C5%9Bci%20sieci%20Web_11-3-2023_14552_localhost.jpeg)
+![Desktop](./Przechwytywanie%20zawarto%C5%9Bci%20sieci%20Web_11-3-2023_14537_localhost.jpeg)
 
 ### Links
 
