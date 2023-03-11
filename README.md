@@ -1,29 +1,61 @@
-# Result Summary
+# Frontend Mentor - Results summary component solution
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-## Customize configuration
+## Overview
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### The challenge
 
-## Project Setup
+Users should be able to:
 
-```sh
-npm install
-```
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
 
-### Compile and Hot-Reload for Development
+### Screenshot
 
-```sh
-npm run dev
-```
+![Mobile](./screenshot.jpg)
+![Tablet](./screenshot.jpg)
+![Desktop](./screenshot.jpg)
 
-### Compile and Minify for Production
+### Links
 
-```sh
-npm run build
-```
+- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
+- Live Site URL: [Github pages](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [VUE](https://reactjs.org/) - JS library
+- [SASS](https://sass-lang.com/) - css preprocessor
+
+### What I learned
+
+- Building with vue
+- Vue components
+
+### Useful resources
+
+- [MDN](https://www.example.com)
+- [Rem Calculator](https://www.example.com)
+
+## Author
+
+- Github - [Adrian Czubaty](https://www.your-site.com)
+- Frontend Mentor - [@Qwerex56](https://www.frontendmentor.io/profile/Qwerex56)
