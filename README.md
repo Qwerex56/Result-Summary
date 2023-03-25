@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
-- Live Site URL: [Github pages](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/profile/Qwerex56/solutions)
+- Live Site URL: [Netlify](https://imaginative-hotteok-876c5b.netlify.app/)
 
 ## My process
 
